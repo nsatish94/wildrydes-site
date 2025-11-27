@@ -1,13 +1,14 @@
 window._config = {
     cognito: {
         userPoolId: 'us-east-1_GwWpmlU35', // e.g. us-east-2_uXboG5pAb
-        userPoolClientId: '7h9eh446er55vkuvoip4651k8m', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+        userPoolClientId: '1h1shj6rod2ma4np33qouhvs6i', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'us-east-1' // e.g. us-east-2
     },
     api: {
         invokeUrl: '' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
+
 
 
 
